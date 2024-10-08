@@ -1,0 +1,6 @@
+﻿  Question-Math.cpp
+C:\Users\HP\source\repos\Question-Math\Question-Math\Question-Math.cpp(25,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Question-Math\Question-Math\Question-Math.cpp(26,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Question-Math\Question-Math\Question-Math.cpp(50,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\source\repos\Question-Math\Question-Math\Question-Math.cpp(75,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Question-Math.vcxproj -> C:\Users\HP\source\repos\Question-Math\x64\Debug\Question-Math.exe
