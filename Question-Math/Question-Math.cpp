@@ -200,6 +200,7 @@ int main()
         cout << "\t\t\t\tYou\'re successful\n";
     }
     else{ cout << "\t\t\t\tYou\'re Loser\n"; }
-
+    cout << endl << endl;
+    system("pause");
     return 0;
 }
